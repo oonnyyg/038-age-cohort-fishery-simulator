@@ -1,0 +1,138 @@
+{
+  "scenarios": [
+    {
+      "name": "fishing_adult",
+      "total_released": 800.0,
+      "total_newborns": 17337.2147135369,
+      "total_natural_mortality": 12191.8853557391,
+      "total_caught_numbers": 1438.5833662922,
+      "total_caught_weight": 2033.7806567532,
+      "final_year": 5,
+      "final_numbers": 7306.7459915055,
+      "final_weight": 3933.4692452936,
+      "final_numbers_by_age": [
+        4291.9376304485,
+        1212.2595152196,
+        883.6899587949,
+        918.8588870425
+      ],
+      "yearly": [
+        {
+          "year": 0,
+          "released": 0.0,
+          "newborns": 0.0,
+          "natural_mortality": 0.0,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 1,
+          "released": 500.0,
+          "newborns": 3651.0263929619,
+          "natural_mortality": 1480.0,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 2,
+          "released": 0.0,
+          "newborns": 2681.5604070987,
+          "natural_mortality": 2596.2158357771,
+          "caught_numbers": 500.0,
+          "caught_weight": 794.8
+        },
+        {
+          "year": 3,
+          "released": 300.0,
+          "newborns": 3682.0414949788,
+          "natural_mortality": 2588.3804671331,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 4,
+          "released": 0.0,
+          "newborns": 3030.648788049,
+          "natural_mortality": 2818.5009692719,
+          "caught_numbers": 938.5833662922,
+          "caught_weight": 1238.9806567532
+        },
+        {
+          "year": 5,
+          "released": 0.0,
+          "newborns": 4291.9376304485,
+          "natural_mortality": 2708.788083557,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        }
+      ]
+    },
+    {
+      "name": "no_fishing",
+      "total_released": 500.0,
+      "total_newborns": 23330.937761853,
+      "total_natural_mortality": 15584.4451444865,
+      "total_caught_numbers": 0.0,
+      "total_caught_weight": 0.0,
+      "final_year": 5,
+      "final_numbers": 11046.4926173665,
+      "final_weight": 6495.1862663404,
+      "final_numbers_by_age": [
+        6081.7010819185,
+        2126.6095852703,
+        1065.8156685523,
+        1772.3662816253
+      ],
+      "yearly": [
+        {
+          "year": 0,
+          "released": 0.0,
+          "newborns": 0.0,
+          "natural_mortality": 0.0,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 1,
+          "released": 500.0,
+          "newborns": 3651.0263929619,
+          "natural_mortality": 1480.0,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 2,
+          "released": 0.0,
+          "newborns": 3840.7877048287,
+          "natural_mortality": 2722.6158357771,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 3,
+          "released": 0.0,
+          "newborns": 4440.8986189681,
+          "natural_mortality": 3182.2368457711,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 4,
+          "released": 0.0,
+          "newborns": 5316.5239631759,
+          "natural_mortality": 3740.8191044467,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        },
+        {
+          "year": 5,
+          "released": 0.0,
+          "newborns": 6081.7010819185,
+          "natural_mortality": 4458.7733584916,
+          "caught_numbers": 0.0,
+          "caught_weight": 0.0
+        }
+      ]
+    }
+  ]
+}
